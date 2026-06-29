@@ -1,0 +1,1847 @@
+{
+  "ARG": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Brazil",
+      "opponent_code": "BRA",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-15",
+      "opponent_name": "Uruguay",
+      "opponent_code": "URU",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-10",
+      "opponent_name": "Colombia",
+      "opponent_code": "COL",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-04",
+      "opponent_name": "China",
+      "opponent_code": "CHN",
+      "is_home": false,
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent_name": "Ecuador",
+      "opponent_code": "ECU",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent_name": "Peru",
+      "opponent_code": "PER",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-10-10",
+      "opponent_name": "Venezuela",
+      "opponent_code": "VEN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-09-05",
+      "opponent_name": "Chile",
+      "opponent_code": "CHI",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-07-14",
+      "opponent_name": "Colombia",
+      "opponent_code": "COL",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Copa America Final",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-07-09",
+      "opponent_name": "Canada",
+      "opponent_code": "CAN",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Copa America SF",
+      "competition_type": "Cup"
+    }
+  ],
+  "FRA": [
+    {
+      "date": "2025-11-16",
+      "opponent_name": "Italy",
+      "opponent_code": "ITA",
+      "is_home": false,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Netherlands",
+      "opponent_code": "NED",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-06",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-06-10",
+      "opponent_name": "England",
+      "opponent_code": "ENG",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-23",
+      "opponent_name": "Croatia",
+      "opponent_code": "CRO",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-11-17",
+      "opponent_name": "Portugal",
+      "opponent_code": "POR",
+      "is_home": true,
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-13",
+      "opponent_name": "Belgium",
+      "opponent_code": "BEL",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-09",
+      "opponent_name": "Switzerland",
+      "opponent_code": "SUI",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-09",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Euro 2024 SF",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-25",
+      "opponent_name": "Poland",
+      "opponent_code": "POL",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "ENG": [
+    {
+      "date": "2025-11-16",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": false,
+      "goals_for": 3,
+      "goals_against": 2,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent_name": "Belgium",
+      "opponent_code": "BEL",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-07",
+      "opponent_name": "Senegal",
+      "opponent_code": "SEN",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-21",
+      "opponent_name": "Albania",
+      "opponent_code": "ALB",
+      "is_home": true,
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-17",
+      "opponent_name": "Ireland Republic",
+      "opponent_code": "IRL",
+      "is_home": false,
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-13",
+      "opponent_name": "Greece",
+      "opponent_code": "GRE",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-07",
+      "opponent_name": "Finland",
+      "opponent_code": "FIN",
+      "is_home": false,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-14",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Euro 2024 Final",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-20",
+      "opponent_name": "Denmark",
+      "opponent_code": "DEN",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "BRA": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Argentina",
+      "opponent_code": "ARG",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-15",
+      "opponent_name": "Paraguay",
+      "opponent_code": "PAR",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent_name": "Ecuador",
+      "opponent_code": "ECU",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Uruguay",
+      "opponent_code": "URU",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent_name": "Colombia",
+      "opponent_code": "COL",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent_name": "Venezuela",
+      "opponent_code": "VEN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-10-10",
+      "opponent_name": "Chile",
+      "opponent_code": "CHI",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-09-06",
+      "opponent_name": "Ecuador",
+      "opponent_code": "ECU",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-07-06",
+      "opponent_name": "Uruguay",
+      "opponent_code": "URU",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "Copa America QF",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-24",
+      "opponent_name": "Colombia",
+      "opponent_code": "COL",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Copa America Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "GER": [
+    {
+      "date": "2025-11-16",
+      "opponent_name": "Italy",
+      "opponent_code": "ITA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "England",
+      "opponent_code": "ENG",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-08",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-06-10",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-23",
+      "opponent_name": "Netherlands",
+      "opponent_code": "NED",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-11-16",
+      "opponent_name": "Hungary",
+      "opponent_code": "HUN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-14",
+      "opponent_name": "Netherlands",
+      "opponent_code": "NED",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-07",
+      "opponent_name": "Hungary",
+      "opponent_code": "HUN",
+      "is_home": true,
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-05",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Euro 2024 QF",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-23",
+      "opponent_name": "Switzerland",
+      "opponent_code": "SUI",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "ESP": [
+    {
+      "date": "2025-11-16",
+      "opponent_name": "England",
+      "opponent_code": "ENG",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Netherlands",
+      "opponent_code": "NED",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-06",
+      "opponent_name": "Croatia",
+      "opponent_code": "CRO",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Morocco",
+      "opponent_code": "MAR",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-22",
+      "opponent_name": "Switzerland",
+      "opponent_code": "SUI",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-17",
+      "opponent_name": "Denmark",
+      "opponent_code": "DEN",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-12",
+      "opponent_name": "Portugal",
+      "opponent_code": "POR",
+      "is_home": false,
+      "goals_for": 4,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-08",
+      "opponent_name": "Switzerland",
+      "opponent_code": "SUI",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-14",
+      "opponent_name": "England",
+      "opponent_code": "ENG",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "Euro 2024 Final",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-24",
+      "opponent_name": "Albania",
+      "opponent_code": "ALB",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "POR": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 0,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-11",
+      "opponent_name": "Croatia",
+      "opponent_code": "CRO",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-07",
+      "opponent_name": "Belgium",
+      "opponent_code": "BEL",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Senegal",
+      "opponent_code": "SEN",
+      "is_home": true,
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-23",
+      "opponent_name": "Denmark",
+      "opponent_code": "DEN",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-15",
+      "opponent_name": "Poland",
+      "opponent_code": "POL",
+      "is_home": true,
+      "goals_for": 5,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-12",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 4,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-08",
+      "opponent_name": "Croatia",
+      "opponent_code": "CRO",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-05",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Euro 2024 QF",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-22",
+      "opponent_name": "Turkey",
+      "opponent_code": "TUR",
+      "is_home": false,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "NED": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent_name": "Turkey",
+      "opponent_code": "TUR",
+      "is_home": true,
+      "goals_for": 4,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-08",
+      "opponent_name": "Ecuador",
+      "opponent_code": "ECU",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-23",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-11-16",
+      "opponent_name": "Hungary",
+      "opponent_code": "HUN",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-14",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": true,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-10",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-10",
+      "opponent_name": "England",
+      "opponent_code": "ENG",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Euro 2024 SF",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-25",
+      "opponent_name": "Austria",
+      "opponent_code": "AUT",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "ITA": [
+    {
+      "date": "2025-11-16",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Belgium",
+      "opponent_code": "BEL",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-07",
+      "opponent_name": "Norway",
+      "opponent_code": "NOR",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-24",
+      "opponent_name": "Croatia",
+      "opponent_code": "CRO",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-17",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-14",
+      "opponent_name": "Belgium",
+      "opponent_code": "BEL",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-09",
+      "opponent_name": "Israel",
+      "opponent_code": "ISR",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-06-29",
+      "opponent_name": "Switzerland",
+      "opponent_code": "SUI",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Euro 2024 R16",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-20",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "BEL": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "Italy",
+      "opponent_code": "ITA",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Portugal",
+      "opponent_code": "POR",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent_name": "England",
+      "opponent_code": "ENG",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-04",
+      "opponent_name": "Algeria",
+      "opponent_code": "ALG",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent_name": "Denmark",
+      "opponent_code": "DEN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-17",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-14",
+      "opponent_name": "Italy",
+      "opponent_code": "ITA",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-06",
+      "opponent_name": "Israel",
+      "opponent_code": "ISR",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-07-01",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "Euro 2024 R16",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-06-22",
+      "opponent_name": "Romania",
+      "opponent_code": "ROU",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Euro 2024 Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "JPN": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "South Korea",
+      "opponent_code": "KOR",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-15",
+      "opponent_name": "Australia",
+      "opponent_code": "AUS",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent_name": "Saudi Arabia",
+      "opponent_code": "KSA",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Italy",
+      "opponent_code": "ITA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent_name": "Iran",
+      "opponent_code": "IRN",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent_name": "Indonesia",
+      "opponent_code": "IDN",
+      "is_home": true,
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-10-15",
+      "opponent_name": "Australia",
+      "opponent_code": "AUS",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-09-10",
+      "opponent_name": "China",
+      "opponent_code": "CHN",
+      "is_home": false,
+      "goals_for": 7,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-07-05",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2024-06-10",
+      "opponent_name": "USA",
+      "opponent_code": "USA",
+      "is_home": true,
+      "goals_for": 4,
+      "goals_against": 1,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    }
+  ],
+  "KOR": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-15",
+      "opponent_name": "Iran",
+      "opponent_code": "IRN",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent_name": "Australia",
+      "opponent_code": "AUS",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Colombia",
+      "opponent_code": "COL",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent_name": "China",
+      "opponent_code": "CHN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent_name": "Palestine",
+      "opponent_code": "PLE",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-10-15",
+      "opponent_name": "Iraq",
+      "opponent_code": "IRQ",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-09-09",
+      "opponent_name": "Jordan",
+      "opponent_code": "JOR",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-02-06",
+      "opponent_name": "Jordan",
+      "opponent_code": "JOR",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L",
+      "league": "AFC Asian Cup SF",
+      "competition_type": "Cup"
+    },
+    {
+      "date": "2024-01-19",
+      "opponent_name": "Bahrain",
+      "opponent_code": "BHR",
+      "is_home": false,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "AFC Asian Cup Group",
+      "competition_type": "Cup"
+    }
+  ],
+  "AUS": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Iran",
+      "opponent_code": "IRN",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-15",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": true,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent_name": "South Korea",
+      "opponent_code": "KOR",
+      "is_home": true,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-10",
+      "opponent_name": "New Zealand",
+      "opponent_code": "NZL",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent_name": "Saudi Arabia",
+      "opponent_code": "KSA",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent_name": "Bahrain",
+      "opponent_code": "BHR",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-10-15",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-09-05",
+      "opponent_name": "Bahrain",
+      "opponent_code": "BHR",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-06-06",
+      "opponent_name": "Palestine",
+      "opponent_code": "PLE",
+      "is_home": true,
+      "goals_for": 5,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-03-26",
+      "opponent_name": "Lebanon",
+      "opponent_code": "LBN",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "RSA": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "Nigeria",
+      "opponent_code": "NGA",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-10",
+      "opponent_name": "Zimbabwe",
+      "opponent_code": "ZIM",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent_name": "Ghana",
+      "opponent_code": "GHA",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-08",
+      "opponent_name": "France",
+      "opponent_code": "FRA",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    }
+  ],
+  "PAR": [
+    {
+      "date": "2025-06-08",
+      "opponent_name": "United States",
+      "opponent_code": "USA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    }
+  ],
+  "CIV": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "Senegal",
+      "opponent_code": "SEN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-10",
+      "opponent_name": "Cameroon",
+      "opponent_code": "CMR",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-07",
+      "opponent_name": "Algeria",
+      "opponent_code": "ALG",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-07",
+      "opponent_name": "Spain",
+      "opponent_code": "ESP",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2024-02-11",
+      "opponent_name": "Nigeria",
+      "opponent_code": "NGA",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "AFCON 2025 Final",
+      "competition_type": "Cup"
+    }
+  ],
+  "CUW": [
+    {
+      "date": "2025-09-08",
+      "opponent_name": "Panama",
+      "opponent_code": "PAN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L",
+      "league": "CONCACAF Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "CPV": [
+    {
+      "date": "2025-10-10",
+      "opponent_name": "Nigeria",
+      "opponent_code": "NGA",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "IRQ": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "NOR": [
+    {
+      "date": "2025-06-08",
+      "opponent_name": "United States",
+      "opponent_code": "USA",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 3,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    }
+  ],
+  "ALG": [
+    {
+      "date": "2025-11-14",
+      "opponent_name": "Ivory Coast",
+      "opponent_code": "CIV",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 1,
+      "result": "D",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-11",
+      "opponent_name": "Tunisia",
+      "opponent_code": "TUN",
+      "is_home": false,
+      "goals_for": 2,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent_name": "Egypt",
+      "opponent_code": "EGY",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Belgium",
+      "opponent_code": "BEL",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    }
+  ],
+  "JOR": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "COD": [
+    {
+      "date": "2025-10-10",
+      "opponent_name": "Morocco",
+      "opponent_code": "MAR",
+      "is_home": true,
+      "goals_for": 0,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "UZB": [
+    {
+      "date": "2025-11-18",
+      "opponent_name": "Japan",
+      "opponent_code": "JPN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 4,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    }
+  ],
+  "HAI": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "Canada",
+      "opponent_code": "CAN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Curaçao",
+      "opponent_code": "CUW",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 1,
+      "result": "W",
+      "league": "CONCACAF Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-08",
+      "opponent_name": "Panama",
+      "opponent_code": "PAN",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Jamaica",
+      "opponent_code": "JAM",
+      "is_home": true,
+      "goals_for": 3,
+      "goals_against": 1,
+      "result": "W",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    }
+  ],
+  "SCO": [
+    {
+      "date": "2025-11-15",
+      "opponent_name": "Netherlands",
+      "opponent_code": "NED",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 3,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent_name": "Austria",
+      "opponent_code": "AUT",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 2,
+      "result": "D",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2025-09-07",
+      "opponent_name": "Norway",
+      "opponent_code": "NOR",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent_name": "Germany",
+      "opponent_code": "GER",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "Friendly",
+      "competition_type": "Friendly"
+    },
+    {
+      "date": "2025-03-23",
+      "opponent_name": "Denmark",
+      "opponent_code": "DEN",
+      "is_home": false,
+      "goals_for": 0,
+      "goals_against": 1,
+      "result": "L",
+      "league": "2026 WC Qualifiers",
+      "competition_type": "Qualifier"
+    },
+    {
+      "date": "2024-11-16",
+      "opponent_name": "Portugal",
+      "opponent_code": "POR",
+      "is_home": true,
+      "goals_for": 1,
+      "goals_against": 0,
+      "result": "W",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-10-13",
+      "opponent_name": "Croatia",
+      "opponent_code": "CRO",
+      "is_home": false,
+      "goals_for": 1,
+      "goals_against": 2,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    },
+    {
+      "date": "2024-09-08",
+      "opponent_name": "Poland",
+      "opponent_code": "POL",
+      "is_home": true,
+      "goals_for": 2,
+      "goals_against": 3,
+      "result": "L",
+      "league": "UEFA Nations League",
+      "competition_type": "League"
+    }
+  ]
+}
